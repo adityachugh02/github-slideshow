@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My vision LEAKS profusely from the French communal canoe.
 Use the left arrow to go back!
